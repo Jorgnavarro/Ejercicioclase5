@@ -1,3 +1,0 @@
-let creadoPorDaniela
-
-let perdonPorLosNombresDeLosArchivos
