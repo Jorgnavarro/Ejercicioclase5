@@ -1,3 +1,3 @@
-//Trabajando de forma remota
+// Resolviendo conflicto
 
 // glkfdljgffjkmndjkdfn
